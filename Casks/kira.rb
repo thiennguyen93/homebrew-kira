@@ -9,7 +9,6 @@ cask "kira" do
 
   # The app updates itself in place, so Homebrew should not fight it.
   auto_updates true
-  depends_on macos: ">= :high_sierra"
 
   app "kira.app"
 
