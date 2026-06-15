@@ -1,6 +1,6 @@
 cask "kira" do
-  version "2.0.2"
-  sha256 "1235c5fdeaec1f8ca802566fdd02c31877e03b8abaf617851aee61c224e71ec5"
+  version "2.0.3"
+  sha256 "c159457cd2edb4e5c4a3398aae3e328d07e9bda878c8255fa5127eacc8814772"
 
   url "https://github.com/thiennguyen93/kira-release/releases/download/v#{version}/kira-#{version}-macOS.dmg"
   name "Kira"
